@@ -6,6 +6,7 @@
 // @version 0.1
 // @description Go to duckduckgo when google makes you do captcha
 // @grant none
+// @run-at       document-start
 // ==/UserScript==
 
 var urlraw = window.location.href;
